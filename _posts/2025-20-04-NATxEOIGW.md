@@ -1,7 +1,7 @@
 ---
-title: "Meu Primeiro Post"
+title: "AWS - NAT x Egress Only Internet Gateway"
 date: 2025-04-20 16:50:00 +0000
-categories: [Blog]
+categories: [AWS]
 tags: [aws, nat, egress, egressonly, ipv4. ipv6, cloud, subnet, vpc, jekyll, chirpy, conhecimento]
 ---
 
