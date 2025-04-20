@@ -5,9 +5,9 @@ categories: [Dicas]
 tags: [jekyll, chirpy, conhecimento]
 ---
 
-Para criar o seu próprio site, semelhante à este, você precisará duas ferramentas:
+# Para criar o seu próprio site, semelhante à este, você precisará duas ferramentas:
 
-1 - GitHub Pages
+1 - GitHub Pages\
 2 - Jekyll
 
 ## Vamos aos Passos 
